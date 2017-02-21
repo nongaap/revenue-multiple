@@ -196,7 +196,7 @@ multiples.**
 
 #### How does business model impact revenue multiple?
 
-![](https://cdn-images-1.medium.com/max/800/0*sl2ppoc7FRdB_POJ.jpg)
+![](https://cdn-images-1.medium.com/max/800/0*sE5cIhXT0Yie9Vl5.jpg)
 
 * Using Gordon Growth Model and applying generic tech business characteristics we
 can estimate what each type of revenue stream is worth in terms of a baseline
@@ -223,7 +223,7 @@ and other growth opportunities.**
 
 #### What is a reasonable revenue multiple?
 
-![](https://cdn-images-1.medium.com/max/800/0*mj1OXSySBecTznga.jpg)
+![](https://cdn-images-1.medium.com/max/800/0*4yC4aUTn4ZhcRwn3.jpg)
 
 * 1x predominantly hardware or transactional revenue with little to no growth
 prospects. Typically lower margin products.
