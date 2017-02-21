@@ -19,7 +19,7 @@ things it’s cheap.”*
 If none of this makes sense to you, hopefully this brief primer on revenue
 multiple will make things a bit clearer. My hope is you gain a better
 understanding of revenue multiple and how (as a tech employee or entrepreneur)
-company decisions can potentially impact valuation. **I’ve structured this post
+company decisions can potentially impact valuation. **I’ve structured this README
 in a FAQ format so feel free to jump around.**
 
 #### What are the key takeaways of revenue multiple? (TLDR visitors)
